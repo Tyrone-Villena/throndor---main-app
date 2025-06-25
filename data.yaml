@@ -1,0 +1,8 @@
+train: ./data/images/train
+val: ./data/images/val
+
+# Number of classes
+nc: 2
+
+# Class names (IDs will be assigned by order: 0, 1, 2)
+names: ["phone", "watch"]
